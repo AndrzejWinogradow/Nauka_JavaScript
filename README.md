@@ -2,6 +2,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
+* [Certificates](#certificates)
 * [Technologies Used](#technologies-used) <!--  * [Features](#features)  --> <!--  * [Screenshots](#screenshots)  --> <!-- * [Setup](#setup) --> <!--  * [Usage](#usage) -->
 * [List of Projects with description](#list-of-projects-with-describtion)
 * [Project Status](#project-status) <!--  * [Room for Improvement](#room-for-improvement) -->
@@ -13,6 +14,10 @@
 ## General Information
 
 List of courses, workshops and tutorials can be read in acknowledgements
+
+## Certificates
+
+- [The Complete JavaScript Course](https://www.udemy.com/certificate/UC-b1d0879e-a228-48a0-8886-b882aa851d45/)
 
 ## Technologies Used
 
